@@ -1,11 +1,11 @@
 .heading {
     color: chocolate;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(205, 171, 140);
 }
 
 
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:sienna;
+    background-color: rgb(205, 171, 140);
 }
